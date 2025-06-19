@@ -10,11 +10,11 @@
 <body class="text-center bg-light">
   <div class="container mt-5">
     <h1 class="mb-4">Welcome to Our Mini Showcase</h1>
+    <img src="https://cdn.discordapp.com/attachments/1383710148786131004/1384707986647421070/IMG_3756.jpg?ex=6853694e&is=685217ce&hm=6a718cc8ce4c20c3c709fac8379a2424fc0398c8a1d61e3795c16cfa654bee12&" alt="ไม่มีรูป"style="width:80px; height:80px; border-radius:50%; object-fit:cover; margin-right:50px;">
     <img src="https://cdn.discordapp.com/attachments/1384056622170509342/1384750525853208587/IMG_20240303_001519_452.jpg?ex=685390ec&is=68523f6c&hm=c1dedbff8f833c366e4214305db0ff7fd6cffbfb11bd09a0154754f7fcdb8310&" alt="Instagram" style="width:80px; height:80px; border-radius:50%; object-fit:cover; ">
-    <img src=<img src="https://cdn.discordapp.com/attachments/1383710148786131004/1384707986647421070/IMG_3756.jpg?ex=6853694e&is=685217ce&hm=6a718cc8ce4c20c3c709fac8379a2424fc0398c8a1d61e3795c16cfa654bee12&" alt="ไม่มีรูป"style="width:80px; height:80px; border-radius:50%; object-fit:cover; margin-right:50px;">
     <p class="lead">Click to view our information</p>
-    <a href="resume1.html" class="btn btn-primary m-2">Punch</a>
-    <a href="resume2.html" class="btn btn-success m-2">Peach</a>
+    <a href="resume1.html" class="btn btn-primary m-2">Peach</a>
+    <a href="resume2.html" class="btn btn-success m-2">Punch</a>
   </div>
 </body>
-</html>
+</html>git
